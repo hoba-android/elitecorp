@@ -467,3 +467,17 @@
 }
 
 /* footer end  */
+
+/* copyrights start  */
+.copyrights {
+  border-top: 1px solid rgb(209, 209, 209);
+  padding: 30px;
+  margin: 0;
+}
+.copyrights ul {
+  margin: 0;
+}
+.copyrights ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
